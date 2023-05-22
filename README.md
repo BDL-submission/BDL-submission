@@ -14,4 +14,5 @@ The datasets can be downloaded from the below links:
 - Simulation dataset: https://github.com/DongHande/AutoDebias/tree/main/datasets/simulation
 
 ##### Software
-- torch >= 1.10.1
+- torch: 1.10.1
+- python: 3.7.11
